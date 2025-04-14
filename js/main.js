@@ -178,7 +178,7 @@ style.textContent = `
     }
 
     .fade-in-section {
-        opacity: 0;
+        opacity: 1;
         transform: translateY(20px);
         transition: opacity 0.6s ease-out, transform 0.6s ease-out;
     }
